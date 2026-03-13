@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@next/mdx": "^2.0.0",
+    "@next/mdx": "^16.1.6",
     "next": "latest",
     "next-seo": "^6.0.0",
     "react": "latest",
