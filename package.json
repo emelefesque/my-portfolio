@@ -8,10 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
-    "@next/mdx": "^16.1.6",
     "next": "latest",
     "next-seo": "^6.0.0",
     "react": "latest",
     "react-dom": "latest"
+  },
+  "engines": {
+    "node": ">=18.17.0"
   }
 }
